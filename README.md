@@ -21,10 +21,10 @@ Unneeded.
 Same.
 
 ### Generating code coverage
-100% already
+100% already.
 
 ### Linting the code
 Lint free!
 
 ### Migrating to the network
-Already done!
+Already done.
